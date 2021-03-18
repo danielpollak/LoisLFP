@@ -10,3 +10,5 @@ computational iteration through the folders simpler. In general, spaces in
 file and folder names should be avoided at all costs. 
 
 Within each subdirectory, there exists another `README.md` file that gives a summary of that particular experimental run. See the example for more information.
+
+`song_preview_202{.m/.fig}`- from Bo Wang. manually moves relevant songs to processing folder.

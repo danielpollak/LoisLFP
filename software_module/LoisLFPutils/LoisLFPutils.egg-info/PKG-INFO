@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: LoisLFPutils
+Version: 0.0.1
+Summary: Utils for our LFP analysis
+Home-page: UNKNOWN
+Author: Daniel Pollak
+Author-email: danpollak23@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: ext/markdown

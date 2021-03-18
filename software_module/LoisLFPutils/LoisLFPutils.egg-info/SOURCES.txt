@@ -1,0 +1,8 @@
+setup.py
+LoisLFPutils/__init__.py
+LoisLFPutils/utils.py
+LoisLFPutils.egg-info/PKG-INFO
+LoisLFPutils.egg-info/SOURCES.txt
+LoisLFPutils.egg-info/dependency_links.txt
+LoisLFPutils.egg-info/requires.txt
+LoisLFPutils.egg-info/top_level.txt

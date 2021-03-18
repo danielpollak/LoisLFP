@@ -1,4 +1,12 @@
 ## `templates`
+### date_preprocessed_data
+This template will be copied into code/processing/ for each experiment. It will contain:
+- `1.wav`,`2.wav`,...`n.wav`: raw wav files
+- `README.md`: info about the day's experiment, including bird, probe, DPH, DPI, and notes
+
+### date_proprocessing_code
+- `DATE_processing.py`
+
 While you may repeat an experiment many, many (many) times. **you must never
 directly copy one day's folder and simply rename the files!** This is a
 recipe for disaster and confusion as you may forget to change a detail that
